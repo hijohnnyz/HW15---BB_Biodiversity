@@ -1,3 +1,3 @@
 # HW15---BB_Biodiversity
 
-Belly Button Biodiversity homework
+Heroku App for Belly Button Biodiversity: https://bbbio.herokuapp.com/
