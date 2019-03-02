@@ -9,7 +9,7 @@ from sqlalchemy.orm import Session
 from sqlalchemy import create_engine
 
 from flask import Flask, jsonify, render_template
-from Flask-SQLAlchemy import SQLAlchemy
+from Flask_SQLAlchemy import SQLAlchemy
 
 app = Flask(__name__)
 
